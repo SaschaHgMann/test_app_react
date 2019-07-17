@@ -9,10 +9,7 @@ body {
 
 }
 button {
-    background-color: teal;
-    border: 1px, solid, white;
-    border-radius: 3px;
-    color: white;
+    
 }
 `;
 

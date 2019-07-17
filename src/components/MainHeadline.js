@@ -3,7 +3,7 @@ import Headline from "./Headline";
 import { fadeInHeadline } from "../utils/animations";
 
 const MainHeadline = styled(Headline)`
-  animation: ${fadeInHeadline} 3s ease-out 1 both;
+  animation: ${fadeInHeadline} 2s ease-out 1 both;
   animation-delay: 2s;
 `;
 
